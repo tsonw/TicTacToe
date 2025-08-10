@@ -19,3 +19,5 @@ Play the classic 3x3 grid game online and have fun with your friends or solo.
 - CSS3 (Linear gradients, animations)
 - Custom X & O icons
 - State management for game logic and clicks
+
+[![Play TicTacToe](https://img.shields.io/badge/▶-Click%20here%20to%20play-brightgreen)](https://tsonw.github.io/TicTacToe/)
